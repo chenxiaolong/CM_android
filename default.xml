@@ -10,13 +10,8 @@
            review="review.cyanogenmod.org" />
 
   <remote  name="cxl"
-           fetch="https://github.com" />
-  <!--
-  <remote  name="cxl"
-           fetch="https://github.com/chenxiaolong" />
-  <remote  name="cxl"
-           fetch="ssh://git@github.com/chenxiaolong" />
-  -->
+           fetch="https://github.com/"
+           review="review.gerrithub.io" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
