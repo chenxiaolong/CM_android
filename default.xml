@@ -11,7 +11,7 @@
 
   <remote  name="cxl"
            fetch="https://github.com/"
-           review="review.cxl.epac.to" />
+           review="gerrit.cxl.epac.to" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
